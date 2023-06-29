@@ -82,7 +82,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
 - Anderson Tenório
 - [Fellipe De Azevedo E Vasconcelos](https://github.com/Fellipe-Vasconcelos)
-- Rychard Mayko Rosado De Araujo
+- [Rychard Mayko Rosado De Araujo](https://github.com/rychardmayko)
 - [Vinicius Fernandes Umbelino Dos Santos](https://github.com/vinicinfernandes)
 
 

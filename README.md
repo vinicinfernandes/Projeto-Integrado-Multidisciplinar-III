@@ -80,8 +80,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev)
 
 ## 👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
-- Anderson Tenório
 - [Fellipe De Azevedo E Vasconcelos](https://github.com/Fellipe-Vasconcelos)
+- Mariana Silva Shirasaka 
 - [Rychard Mayko Rosado De Araujo](https://github.com/rychardmayko)
 - [Vinicius Fernandes Umbelino Dos Santos](https://github.com/vinicinfernandes)
 

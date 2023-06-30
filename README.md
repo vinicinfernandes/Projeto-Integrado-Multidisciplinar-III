@@ -3,7 +3,7 @@ O Projeto Integrado Multidisciplinar se baseia em uma arquitetura de software, c
 
 <h1 align="center"> Protótipo de Software de Gerenciamento de Recursos Humanos </h1>
 <p align="center">
-  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/unip.png?raw=true" alt="Logo UNIP" width="85%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/unip.png?raw=true" alt="Logo UNIP" width="50%"/>
 </p>
 <h2 align="center">
 Análise e Desenvolvimento de Sistemas - PIM
@@ -43,7 +43,7 @@ Matérias abordadas:
 
 <br/>
 <p align="center">
-  <img src="https://github.com/marlonakio/PIM_II_ADS_UNIP/blob/main/.github/PIM-UNIP.pptx.png?raw=true" alt="UNIP - PROJETO INTEGRADO MULTIDISCIPLINAR" width="50%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/unip.png?raw=true" alt="Logo UNIP" width="50%"/>
 <br>
 
 ## :memo: O Projeto

@@ -74,10 +74,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Figma;
 - Photoshop;
 - MySQL;
-- Astah UML.
+- Astah UML;
+- SQL Server.
 
   
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev) <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/astah.png" alt="astah" width="5%"/>
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev) <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/astah.png" alt="astah" width="5%"/> <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/sqlserver.png" alt="astah" width="5%"/> 
 
 ## 👨‍🎓👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
 - [Fellipe De Azevedo E Vasconcelos](https://github.com/Fellipe-Vasconcelos)

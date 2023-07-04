@@ -72,9 +72,9 @@ envolvendo múltiplas disciplinas.
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - Figma;
-- Astah UML;
 - Photoshop;
-- MySQL.
+- MySQL;
+- Astah UML.
 
   
 [![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev) <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/astah.png" alt="astah" width="5%"/>

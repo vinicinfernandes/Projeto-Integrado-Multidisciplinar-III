@@ -3,7 +3,7 @@ O Projeto Integrado Multidisciplinar se baseia em uma arquitetura de software, c
 
 <h1 align="center"> Protótipo de Software de Gerenciamento de Recursos Humanos </h1>
 <p align="center">
-  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/unip2.png" alt="Logo UNIP" width="75%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/UNIP2.png" alt="Logo UNIP" width="80%"/>
 </p>
 <h2 align="center">
 Análise e Desenvolvimento de Sistemas - PIM
@@ -43,7 +43,7 @@ Matérias abordadas:
 
 <br/>
 <p align="center">
-  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/unip.png" alt="Logo UNIP" width="80%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/unip.png" alt="Logo UNIP" width="80%"/>
 <br>
 
 ## :memo: O Projeto
@@ -55,7 +55,7 @@ Optamos por desenvolver um protótipo funcional de alta fidelidade para o gerenc
 ## 🟢 Nota
 A nota alcançada ao concluirmos e apresentarmos este projeto foi `10`.
 <p align="center">
-  <img src="https://github.com/marlonakio/PIM_II_ADS_UNIP/blob/main/.github/nota.png?raw=true" alt="NOTA 10" width="100%"/>
+  <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/notas%20pim.png" alt="NOTA 10" width="100%"/>
 
 ## 🎯 Objetivos alcaçados
 Ao realizar este projeto adquirimos e aprimoramos as seguintes skills:

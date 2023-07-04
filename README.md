@@ -77,9 +77,9 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - MySQL.
 
   
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev) <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/astah.png" alt="astah" width="5%"/>
 
-## 👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
+## 👨‍🎓👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
 - [Fellipe De Azevedo E Vasconcelos](https://github.com/Fellipe-Vasconcelos)
 - Mariana Silva Shirasaka 
 - [Rychard Mayko Rosado De Araujo](https://github.com/rychardmayko)

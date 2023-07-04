@@ -78,7 +78,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - SQL Server.
 
   
-[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev) <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/astah.png" alt="astah" width="7%"/> <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/sqlserver.png" alt="astah" width="7%"/> 
+[![My Skills](https://skillicons.dev/icons?i=figma,ps,mysql)](https://skillicons.dev) <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/astah.png" alt="astah" width="6%"/> <img src="https://github.com/vinicinfernandes/Projeto-Integrado-Multidisciplinar-III/blob/main/IMGS/sqlserver.png" alt="astah" width="6%"/> 
 
 ## 👨‍🎓👨‍🎓👨‍🎓👨‍🎓 Desenvolvedores
 - [Fellipe De Azevedo E Vasconcelos](https://github.com/Fellipe-Vasconcelos)
